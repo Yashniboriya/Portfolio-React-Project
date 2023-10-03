@@ -46,7 +46,7 @@ const NavContent = ({ setMenuOpen }) => (
         Contact
       </a>
     </div>
-    <a href="https://drive.google.com/file/d/1ydEHTlESK_bFAeKByO1sta5r1eCiGgFE/view?usp=drive_link">
+    <a href="https://drive.google.com/file/d/1WEJ6VLSE3vYUsOZUlRWr-mYCCEP1iLbW/view?usp=drive_link">
       <button>Resume</button>
     </a>
   </>
